@@ -20020,6 +20020,41 @@
     "Personas Afromexicanas":0,
     "Consecutivo":572
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.83408546,16.91257155 ]
+    },
+    "properties": {
+    "Programa":"Convite Cultural",
+    "Región":"Centro",
+    "Área":"DAC",
+    "Coordinación":"DGVC",
+    "Estado":"Guerrero",
+    "Municipio":"Acapulco de Juárez",
+    "Localidad":"Acapulco de Juárez",
+    "Nombre del semillero":"Convite cultural en el Parque Unidos por Guerrero, Acapulco de Juárez, Guerrero",
+    "Sedes":"Parque Unidos por Guerrero",
+    "Direcciones":"",
+    "Horarios":"",
+    "Rama Artística (DT)":"Jornada Cultural Permanente",
+    "Año de creación":"2025",
+    "Atención a las causas":"Sí",
+    "Número promotores":2,
+    "Cantidad de participantes":null,
+    "Niñas":null,
+    "Niños":null,
+    "Mujeres Jóvenes":null,
+    "Hombres Jóvenes":null,
+    "Mujeres adultas":null,
+    "Hombres adultos":null,
+    "Personas con Discapacidad":null,
+    "Personas Indígenas":null,
+    "Personas Afromexicanas":null,
+    "Consecutivo":573
+    }
   }
 ]
 }
